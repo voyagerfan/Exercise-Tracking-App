@@ -3,14 +3,13 @@
 Welcome to the Boat and Load Tracker API!
 
 ## Table of Contents
-- [Exercise-Tracking-App](#exercise-tracking-app)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [App File Structure](#app-file-structure)
   - [Features](#features)
   - [Screenshots](#screenshots)
   - [Technologies Used](#technologies-used)
   - [Installation and Operation](#installation-and-operation)
+
 ## Overview
 
 This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows a user to CRUD (create, read update and delete) their exercise routines.
