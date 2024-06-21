@@ -1,0 +1,6 @@
+#folders/files that will not be uploaded to Github
+backend/movies-rest/node_modules
+frontend/movies-ui/node_modules
+backend/movies-rest/.env
+
+
