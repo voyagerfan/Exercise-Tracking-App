@@ -69,6 +69,9 @@ Multiple Exercises
 
 *Prerequisites*: **MongoDB**, **Node.js**, an **IDE**
 
+> [!IMPORTANT]
+> The following instructions are intended for Visual Studio Code but feel free to use an IDE you are comfortable with. 
+
 **1. MongoDB setup**
 * You will need to create a [MongoDB account](https://account.mongodb.com/account/login). There is a free version you can sign up for.
 * MongoDB documenation can be found [HERE](https://www.mongodb.com/docs/atlas/getting-started/?_ga=2.42031591.393924942.1718915988-924210838.1718915988&_gac=1.55707609.1718931935.CjwKCAjwps-zBhAiEiwALwsVYUhT__z-AiKBSj7jQbqW2niZsWsHbx0h1hWaw1SpILlvYBZteqeR5RoCkdYQAvD_BwE). Generally you will need to:
@@ -81,8 +84,6 @@ Multiple Exercises
   * Add your password to the connect string and save this for later.
 
 **2. IDE Setup**
-
-<u style="text-decoration: underline;">The following is for VS Code</u> but feel free to use an IDE you are comfortable with.
 
 * Click on the "Exentensions" icon (left pane).
 * Type MongoDB into the search bar. 
